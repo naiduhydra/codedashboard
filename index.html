@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Code Problem Tracker</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Code Problem Tracker</h1>
+
+        <!-- Form -->
+        <form id="addForm">
+            <input type="text" id="problemName" placeholder="Problem Name" required>
+            <input type="text" id="platform" placeholder="Platform" required>
+            <textarea id="description" placeholder="Description"></textarea>
+
+            <select id="difficulty" required>
+                <option value="">Select Difficulty</option>
+                <option value="Easy">Easy</option>
+                <option value="Medium">Medium</option>
+                <option value="Hard">Hard</option>
+            </select>
+
+            <select id="status">
+                <option value="Unsolved">Unsolved</option>
+                <option value="Solved">Solved</option>
+                <option value="Pending">Pending</option>
+            </select>
+
+            <button type="submit">Add Problem</button>
+        </form>
+
+        <!-- Charts Section -->
+        <div class="charts">
+            <canvas id="difficultyChart" class="pie-chart"></canvas>
+            <canvas id="statusChart" class="pie-chart"></canvas>
+            <canvas id="entryBarChart" class="bar-chart"></canvas>
+        </div>
+        
+
+        <!-- Sort Buttons -->
+        <div class="sort-options">
+            <button id="sortByDifficulty">Sort by Difficulty</button>
+            <button id="sortByStatus">Sort by Status</button>
+        </div>
+
+        <!-- Problem List -->
+        <table id="problemTable">
+            <thead>
+                <tr>
+                    <th>Problem Name</th>
+                    <th>Platform</th>
+                    <th>Difficulty</th>
+                    <th>Status</th>
+                    <th>Description</th>
+                    <th>Actions</th>
+                </tr>
+            </thead>
+            <tbody>
+                <!-- Rows will be dynamically added here -->
+            </tbody>
+        </table>
+        
+        <!-- Footer -->
+        <footer>
+            <p>Developed by <a href="https://github.com/naiduhydra" target="_blank">Naidu Hydra</a></p>
+        </footer>
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <script src="script.js"></script>
+</body>
+</html>
