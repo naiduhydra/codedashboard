@@ -48,3 +48,12 @@ To run the project locally:
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/codedashboard.git
+
+📄 License
+This project is open-source and available under the MIT License.
+
+🙌 Acknowledgements
+Made with ❤️ by Hydra
+
+
+Let me know if you'd like to include GitHub stats, contribution guidelines, or a deploy button.
