@@ -1,1 +1,34 @@
 
+# Code Dashboard 🚀
+
+A clean and simple **Code Dashboard** built using HTML, CSS, and JavaScript. This project offers a sleek interface to organize, manage, and display various code components or resources in a dashboard format.
+
+🔗 **Live Demo**: [Click Here to View](https://naiduhydra.github.io/codedashboard/)
+
+## 📸 Preview
+
+![Code Dashboard Screenshot](https://naiduhydra.github.io/codedashboard/assets/preview.png)
+<sub>*(Update this image URL with an actual screenshot if needed)*</sub>
+
+---
+
+## 🛠️ Features
+
+- 📋 Dashboard-style layout
+- ⚡ Responsive design
+- 🎨 Clean and modern UI
+- 🔧 Built with HTML, CSS, and JavaScript only
+- 🧩 Easy to customize and extend
+
+---
+
+## 🧑‍💻 Tech Stack
+
+- **HTML5**
+- **CSS3**
+- **JavaScript (Vanilla)**
+
+---
+
+## 📂 Folder Structure
+
