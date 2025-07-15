@@ -32,3 +32,9 @@ A clean and simple **Code Dashboard** built using HTML, CSS, and JavaScript. Thi
 
 ## 📂 Folder Structure
 
+codedashboard/
+├── index.html
+├── style.css
+├── script.js
+├── assets/
+│ └── (icons, images, etc.)
