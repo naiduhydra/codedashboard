@@ -55,5 +55,4 @@ This project is open-source and available under the MIT License.
 🙌 Acknowledgements
 Made with ❤️ by Hydra
 
-
 Let me know if you'd like to include GitHub stats, contribution guidelines, or a deploy button.
