@@ -1,5 +1,5 @@
 
-# Code Dashboard 🚀
+# Dashboard 🚀
 
 A clean and simple **Code Dashboard** built using HTML, CSS, and JavaScript. This project offers a sleek interface to organize, manage, and display various code components or resources in a dashboard format.
 
