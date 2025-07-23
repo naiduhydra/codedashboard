@@ -6,7 +6,6 @@ A clean and simple **Code Dashboard** built using HTML, CSS, and JavaScript. Thi
 
 🔗 **Live Demo**: [Click Here to View](https://naiduhydra.github.io/codedashboard/)
 
-
 ## 📸 Preview
 
 ![Code Dashboard Screenshot](https://naiduhydra.github.io/codedashboard/assets/preview.png)
